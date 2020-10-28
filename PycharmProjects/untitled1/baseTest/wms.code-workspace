@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "PycharmProjects",
+			"path": "..\\.."
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "pytheme",
+		"git.ignoreLimitWarning": true,
+		"workbench.preferredDarkColorTheme": "Visual Studio Light",
+		"workbench.preferredHighContrastColorTheme": "Quiet Light",
+		"workbench.editor.enablePreview": false
+	},
+	"files.associations": {}
+	
+}
