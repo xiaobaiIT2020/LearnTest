@@ -2,6 +2,7 @@ import win32api
 import win32print
 import os
 
+## 自带功能
 def printer_loading(filename):
     win32api.ShellExecute (
     0,
@@ -12,6 +13,7 @@ def printer_loading(filename):
     0
     )
 
+## 统一修改，新建窗体录入功能
 arg = input("输入文件路径：")
 pdfs = []
 

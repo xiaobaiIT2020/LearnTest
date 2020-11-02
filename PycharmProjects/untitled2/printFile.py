@@ -3,7 +3,7 @@ import win32print
 import os
 
 def printer_loading(filename):
-    win32print.SetDefaultPrinter("Kyocera KM-2540 KX")
+    ## win32print.SetDefaultPrinter("Kyocera KM-2540 KX")
     win32api.ShellExecute (
     0,
     "print",
