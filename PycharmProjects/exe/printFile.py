@@ -29,5 +29,5 @@ for root, x, files in os.walk(arg):
         pdfs.append(fpth)
 
 for pdf in pdfs:
-    ## print(pdf)
+    print(pdf)
     printer_loading(pdf)
