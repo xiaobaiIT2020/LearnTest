@@ -1,0 +1,2 @@
+打包工具：PyInstaller
+打包exe命令：PyInstaller -i print.ico -F printFile.py
